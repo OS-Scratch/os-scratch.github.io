@@ -1,3 +1,6 @@
 #bold {
   text-size: 20pt;
 }
+html {
+  font-family: "Inter", sans-serif, serif;
+}
