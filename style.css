@@ -1,6 +1,10 @@
 #bold {
   text-size: 20pt;
 }
+.link {
+  text-decoration: none;
+  color: lightblue;
+}
 html {
   font-family: "Inter Tight", sans-serif, serif;
 }
