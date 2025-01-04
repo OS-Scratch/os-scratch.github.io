@@ -1,12 +1,8 @@
 @font-face {
     font-family: 'Inter Tight';
-    src: url('InterTight-VariableFont_wght.ttf') format('ttf-variations');
+    src: url('InterTight-VariableFont_wght.ttf') format('truetype');
     font-weight: 100 900; /* Adjust the range of weights */
     font-style: normal; /* or italic if needed */
-}
-
-#bold {
-  text-size: 20pt;
 }
 a {
   text-decoration: none;
@@ -30,7 +26,7 @@ nav ul {
     padding: 0;
     margin: 0;
 }
-@media screen (max-width: 800px) {
+@media screen and (max-width: 800px) {
   font-size: 15px;
 }
 
