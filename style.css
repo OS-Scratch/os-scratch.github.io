@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('InterTight-VariableFont_wght.ttf') format('ttf-variations');
+    font-weight: 100 900; /* Adjust the range of weights */
+    font-style: normal; /* or italic if needed */
+}
+
 #bold {
   text-size: 20pt;
 }
