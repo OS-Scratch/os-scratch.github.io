@@ -3,6 +3,7 @@
     src: url('InterTight-VariableFont_wght.ttf') format('truetype');
     font-weight: 100 900; /* Adjust the range of weights */
     font-style: normal; /* or italic if needed */
+    font-display: swap;
 }
 a {
   text-decoration: none;
