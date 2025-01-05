@@ -1,10 +1,4 @@
-@font-face {
-    font-family: 'Inter Tight';
-    src: url('InterTight-VariableFont_wght.ttf') format('truetype');
-    font-weight: 100 900; /* Adjust the range of weights */
-    font-style: normal; /* or italic if needed */
-    font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
 a {
   text-decoration: none;
   color: #0A3D62;
