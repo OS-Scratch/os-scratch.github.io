@@ -15,5 +15,10 @@
     <lastmod>2025-01-18</lastmod>
     <priority>0.80</priority>
   </url>
+    <url>
+    <loc>https://os-scratch.github.io/carbon.png</loc>
+    <lastmod>2025-01-03</lastmod>
+    <priority>0.20</priority>
+  </url>
   <!-- Weitere URLs hier hinzufügen -->
 </urlset>
