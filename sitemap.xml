@@ -6,6 +6,11 @@
     <priority>1.00</priority>
   </url>
   <url>
+    <loc>https://os-scratch.github.io/privacy.html</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
     <loc>https://os-scratch.github.io/projects.html</loc>
     <lastmod>2025-01-18</lastmod>
     <priority>0.80</priority>
